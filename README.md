@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=KRitesh%20AI&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=KRitesh&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
 
 <br/>
 
