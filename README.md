@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=KRITESH%20AI&fontSize=55&fontColor=38BDF8&fontAlignY=35&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Kritesh%20AI&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
 
 <br/>
 
 **AI/ML, Software Engineer & Data Scientist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Machine+Learning+%7C+Deep+Learning+%7C+RAG;Turning+data+into+intelligent+systems;Always+shipping%2C+always+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Machine+Learning+%7C+Deep+Learning+%7C+RAG;Turning+data+into+intelligent+systems" />
 
 <br/>
 
@@ -49,8 +49,8 @@ const kriteshAI = {
 | Role | Organization | Duration |
 |---|---|---|
 | Data Science Intern | Celebal Technologies | May 2026 - June 2026 |
-| AI-ML Virtual Intern | Google (via EduSkills) | — |
-| Generative AI Virtual Intern | EduSkills | — |
+| AI-ML Virtual Intern | Google (via EduSkills) | Oct 2025 - Dec 2025 |
+| Generative AI Virtual Intern | EduSkills | Apr 2025 - June 2025 |
 
 ## 📜 Certifications
 
