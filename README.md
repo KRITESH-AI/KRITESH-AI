@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=KRitesh%20AI&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=KRITESH%20AI&fontSize=55&fontColor=38BDF8&fontAlignY=35&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -114,7 +114,7 @@ An AI-powered recruitment platform that streamlines the hiring process by combin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Kritesh%20AI&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=KRitesh%20AI&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
 
 </div>
 
