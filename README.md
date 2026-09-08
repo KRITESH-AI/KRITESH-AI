@@ -78,7 +78,6 @@ An AI-powered recruitment platform that streamlines the hiring process by combin
 | Libraries | scikit-learn, NumPy, Pandas, Random Forest |
 | Language | Python |
 
-🔗 [Live Demo](https://ai-powered-intelligent-hiring-assistant-awqjvpeyxspn7qn4jovxb4.streamlit.app/) &nbsp;•&nbsp; 💻 [Code](https://github.com/KRITESH-AI/AI-Powered-Intelligent-Hiring-Assistant)
 
 ---
 
@@ -115,7 +114,7 @@ An AI-powered recruitment platform that streamlines the hiring process by combin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KRITESH-AI&no-frame=true&no-bg=true&theme=nord" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=200&section=header&text=Kritesh%20AI&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
 
 </div>
 
